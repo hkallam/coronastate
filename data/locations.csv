@@ -2564,11 +2564,11 @@ num,placetype,adm0,adm1,adm2,adm3,indiv,lat,lon
 2563,adm1,Sweden,Stockholm,,,,59.32944000000001,18.06861
 2564,adm1,Sweden,Södermanland,,,,58.77105,16.869510000000002
 2565,adm1,Sweden,Uppsala,,,,59.85,17.65
-2566,adm1,Sweden,Värmland,,,,65.096214,16.839522
-2567,adm1,Sweden,Västerbotten,,,,64.34467,18.31421
-2568,adm1,Sweden,Västernorrland,,,,62.73972,16.93
-2569,adm1,Sweden,Västmanland,,,,59.64554,16.42456
-2570,adm1,Sweden,Västra Götaland,,,,58.21702,11.7334
+2566,adm1,Sweden,Västerbotten,,,,64.34467,18.31421
+2567,adm1,Sweden,Västernorrland,,,,62.73972,16.93
+2568,adm1,Sweden,Västmanland,,,,59.64554,16.42456
+2569,adm1,Sweden,Västra Götaland,,,,58.21702,11.7334
+2570,adm1,Sweden,V��rmland,,,,,
 2571,adm1,Sweden,Örebro,,,,59.26667,15.21667
 2572,adm1,Sweden,Östergötland,,,,58.41056,15.61361
 2573,adm0,Switzerland,,,,,46.8182,8.2275
